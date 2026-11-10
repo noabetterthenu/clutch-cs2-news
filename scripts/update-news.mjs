@@ -34,8 +34,20 @@ throw new Error("HLTV RSS error: " + response.status);
 }
 
 const xml = await response.text();
-const entries = Array.from(
+Run node scripts/update-news.mjs
+file:///home/runner/work/clutch-cs2-news/clutch-cs2-news/scripts/update-news.mjs:38
 xml.matchAll(/<item\b[^>]>([\s\S]?)</item>/gi)
+             ^
+
+SyntaxError: Invalid regular expression flags
+    at compileSourceTextModule (node:internal/modules/esm/utils:346:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:146:18)
+    at #translate (node:internal/modules/esm/loader:497:12)
+    at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:544:27)
+    at async ModuleJob._link (node:internal/modules/esm/module_job:148:19)
+
+Node.js v20.20.2
+Error: Process completed with exit code 1.
 
 const items = entries.slice(0, 30).map(function (match) {
 const entry = match[1];
