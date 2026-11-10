@@ -34,7 +34,6 @@ throw new Error("HLTV RSS error: " + response.status);
 }
 
 const xml = await response.text();
-Run node scripts/update-news.mjs
 file:///home/runner/work/clutch-cs2-news/clutch-cs2-news/scripts/update-news.mjs:38
 xml.matchAll(/<item\b[^>]>([\s\S]?)</item>/gi)
              ^
