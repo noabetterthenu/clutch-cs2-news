@@ -175,16 +175,16 @@ const grid = document.getElementById("newsGrid");
 const updated = document.getElementById("updated");
 
 function renderNews(items) {
-  if (!Array.isArray(items) || !items.length) {
+  if (!Array.isArray(items)  !items.length) {
     grid.innerHTML = '<div class="empty">Пока нет новостей. Лента появится после подключения источника.</div>';
     return;
   }
 
   grid.innerHTML = items.map((item, i) => {
-    const title = escapeHTML(item.title || "Новость CS2");
+    const title = escapeHTML(item.title  "Новость CS2");
     const summary = escapeHTML(item.summary  item.description  "");
-    const source = escapeHTML(item.source || "CS2 NEWS");
-    const tag = escapeHTML(item.tag || "NEWS");
+    const source = escapeHTML(item.source  "CS2 NEWS");
+    const tag = escapeHTML(item.tag  "NEWS");
     const date = escapeHTML(item.date || "");
     const url = safeURL(item.url);
     return `<article class="news-card" style="animation-delay:${i * 0.08}s">
