@@ -36,7 +36,6 @@ throw new Error("HLTV RSS error: " + response.status);
 const xml = await response.text();
 const entries = Array.from(
 xml.matchAll(/<item\b[^>]>([\s\S]?)</item>/gi)
-);
 
 const items = entries.slice(0, 30).map(function (match) {
 const entry = match[1];
