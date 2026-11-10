@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#080b12">
+<title>CLUTCH CS2 — Новости Counter-Strike 2</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --bg:#080b12;
+  --panel:#101622;
+  --line:#202b3c;
+  --text:#f3f6fc;
+  --muted:#8995a8;
+  --accent:#a3ff12;
+  --blue:#35d9ff;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--bg);color:var(--text);
+  font-family:Inter,Arial,sans-serif;
+  overflow-x:hidden;
+}
+body:before{
+  content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;
+  background:radial-gradient(ellipse at 80% 5%,#17304755,transparent 40%),
+  radial-gradient(ellipse at 10% 45%,#203d1850,transparent 35%);
+}
+header{
+  height:76px;display:flex;align-items:center;justify-content:space-between;
+  padding:0 7%;border-bottom:1px solid var(--line);
+  background:#080b12eF;position:sticky;top:0;z-index:10;
+  backdrop-filter:blur(15px);
+}
+.logo{font:900 24px Orbitron;color:white;letter-spacing:1px}
+.logo span{color:var(--accent)}
+nav{display:flex;gap:30px}
+nav a{color:#aab5c6;text-decoration:none;font-size:13px;font-weight:700;transition:.2s}
+nav a:hover{color:var(--accent)}
+.status{font-size:11px;color:var(--accent);letter-spacing:1px}
+.status:before{content:"●";margin-right:8px;animation:pulse 1.5s infinite}
+.hero{
+  min-height:440px;padding:90px 8% 75px;position:relative;
+  display:flex;align-items:center;overflow:hidden;
+  background:linear-gradient(90deg,#080b12 15%,#080b12bb 65%,transparent),
+  radial-gradient(ellipse at 80% 50%,#284d37 0%,#101c24 35%,#080b12 75%);
+}
+.hero:after{
+  content:"CS2";position:absolute;right:5%;top:50%;
+  transform:translateY(-50%);font:900 clamp(100px,22vw,280px) Orbitron;
+  color:#ffffff09;pointer-events:none;
+}
+.hero-content{position:relative;z-index:1;max-width:700px}
+.eyebrow{color:var(--accent);font-size:12px;font-weight:800;letter-spacing:4px}
+h1{font:900 clamp(38px,6vw,76px) Orbitron;line-height:1.08;margin:20px 0}
+h1 span{color:var(--accent);text-shadow:0 0 35px #a3ff1240}
+.hero p{color:#aab5c6;line-height:1.8;max-width:500px;font-size:15px}
+.cta{
+  display:inline-block;margin-top:22px;padding:15px 25px;
+  background:var(--accent);color:#10150a;text-decoration:none;
+  font-size:12px;font-weight:900;letter-spacing:1px;
+  clip-path:polygon(0 0,100% 0,100% 75%,90% 100%,0 100%);
+  transition:.2s;
+}
+.cta:hover{transform:translateY(-3px);box-shadow:0 0 30px #a3ff1255}
+.ticker{border-block:1px solid var(--line);overflow:hidden;padding:13px 0;background:#0c111b}
+.ticker-track{display:flex;white-space:nowrap;gap:50px;animation:marquee 30s linear infinite;width:max-content}
+.ticker span{font:700 11px Orbitron;color:var(--accent);letter-spacing:2px}
+section{padding:65px 8%}
+.section-head{display:flex;align-items:end;justify-content:space-between;margin-bottom:28px;gap:15px}
+.section-head h2{font:800 25px Orbitron;margin:0}
+.section-head h2 span{color:var(--accent)}
+.section-head p{font-size:11px;color:var(--muted);margin:0}
+.news-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.news-card{
+  background:linear-gradient(145deg,#141d2b,#0d131e);
+  border:1px solid var(--line);padding:23px;min-height:220px;
+  position:relative;overflow:hidden;transition:.25s;
+  animation:appear .7s both;
+}
+.news-card:hover{transform:translateY(-6px);border-color:#a3ff1277;box-shadow:0 12px 35px #0008}
+.news-card:before{content:"";position:absolute;left:0;top:0;width:3px;height:0;background:var(--accent);transition:.3s}
+.news-card:hover:before{height:100%}
+.tag{font-size:10px;font-weight:900;color:var(--accent);letter-spacing:2px}
+.news-card h3{font-size:17px;line-height:1.5;margin:17px 0 10px}
+.news-card p{color:var(--muted);font-size:12px;line-height:1.7}
+.news-meta{display:flex;justify-content:space-between;margin-top:23px;color:#718096;font-size:10px}
+.news-card a{color:inherit;text-decoration:none}
+.news-card a:hover{color:var(--accent)}
+.empty{grid-column:1/-1;padding:35px;text-align:center;color:var(--muted);border:1px dashed var(--line)}
+#updated{color:var(--accent)}
+footer{padding:35px 8%;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:11px}
+footer strong{font-family:Orbitron;color:white}
+@keyframes pulse{50%{opacity:.25}}
+@keyframes marquee{to{transform:translateX(-50%)}}
+@keyframes appear{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:800px){
+  header{padding:0 5%}nav{gap:13px}nav a{font-size:11px}
+  .status{display:none}.hero{padding:75px 6%;min-height:390px}
+  section{padding:50px 6%}.news-grid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:520px){
+  nav a:nth-child(2){display:none}.news-grid{grid-template-columns:1fr}
+  .section-head{align-items:start;flex-direction:column}
+  footer{flex-direction:column}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">CLUTCH<span>.</span></div>
+  <nav>
+    <a href="#home">ГЛАВНАЯ</a>
+    <a href="#news">НОВОСТИ</a>
+    <a href="#about">О ПРОЕКТЕ</a>
+  </nav>
+  <div class="status">CS2 NEWS</div>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <div class="hero-content">
+    <div class="eyebrow">COUNTER-STRIKE 2 / COMMUNITY</div>
+    <h1>ИГРАЙ.<br>ПОБЕЖДАЙ.<br><span>БУДЬ В КУРСЕ.</span></h1>
+    <p>Твой центр новостей CS2. Турниры, команды, трансферы и всё самое важное из мира Counter-Strike.</p>
+    <a class="cta" href="#news">ЧИТАТЬ НОВОСТИ ↗️</a>
+  </div>
+</section>
+
+<div class="ticker">
+  <div class="ticker-track">
+    <span>● CLUTCH CS2</span><span>● COUNTER-STRIKE 2</span>
+    <span>● ESPORTS NEWS</span><span>● STAY SHARP</span>
+    <span>● CLUTCH CS2</span><span>● COUNTER-STRIKE 2</span>
+    <span>● ESPORTS NEWS</span><span>● STAY SHARP</span>
+  </div>
+</div>
+
+<section id="news">
+  <div class="section-head">
+    <div>
+      <div class="eyebrow">LATEST UPDATES</div>
+      <h2>ПОСЛЕДНИЕ <span>НОВОСТИ</span></h2>
+    </div>
+    <p>ОБНОВЛЕНО: <span id="updated">ожидание данных</span></p>
+  </div>
+  <div class="news-grid" id="newsGrid">
+    <div class="empty">Загружаем ленту новостей...</div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="eyebrow">ABOUT CLUTCH</div>
+  <h2 style="font:800 25px Orbitron">ТВОЯ ИГРА. <span style="color:var(--accent)">ТВОИ НОВОСТИ.</span></h2>
+  <p style="color:var(--muted);font-size:14px;line-height:1.9;max-width:650px">
+    CLUTCH — независимый проект для поклонников Counter-Strike 2.
+    Следи за киберспортивной сценой, узнавай о важных событиях
+    и оставайся в центре игры.
+  </p>
+</section>
+</main>
+
+<footer>
+  <strong>CLUTCH<span style="color:var(--accent)">.</span> CS2</strong>
+  <span>Независимый фанатский проект. Не связан с Valve.</span>
+  <span>© 2026 CLUTCH</span>
+</footer>
+
+<script>
+const grid = document.getElementById("newsGrid");
+const updated = document.getElementById("updated");
+
+function renderNews(items) {
+  if (!Array.isArray(items) || !items.length) {
+    grid.innerHTML = '<div class="empty">Пока нет новостей. Лента появится после подключения источника.</div>';
+    return;
+  }
+
+  grid.innerHTML = items.map((item, i) => {
+    const title = escapeHTML(item.title || "Новость CS2");
+    const summary = escapeHTML(item.summary  item.description  "");
+    const source = escapeHTML(item.source || "CS2 NEWS");
+    const tag = escapeHTML(item.tag || "NEWS");
+    const date = escapeHTML(item.date || "");
+    const url = safeURL(item.url);
+    return `<article class="news-card" style="animation-delay:${i * 0.08}s">
+      <div class="tag">${tag}</div>
+      <h3>${url ? <a href="${url}" target="_blank" rel="noopener">${title} ↗️</a> : title}</h3>
+      <p>${summary}</p>
+      <div class="news-meta"><span>${source}</span><span>${date}</span></div>
+    </article>`;
+  }).join("");
+}
+
+function escapeHTML(value) {
+  return String(value).replace(/[&<>"']/g, c => ({
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+  }[c]));
+}
+
+function safeURL(value) {
+  try {const url = new URL(value);
+    return ["https:", "http:"].includes(url.protocol) ? escapeHTML(url.href) : "";
+  } catch { return ""; }
+}
+
+async function loadNews() {
+  try {
+    const response = await fetch("./data/news.json?t=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) throw new Error("Feed not ready");
+    const data = await response.json();
+    renderNews(data.items || []);
+    updated.textContent = data.updatedAt
+      ? new Date(data.updatedAt).toLocaleString("ru-RU")
+      : "данные получены";
+  } catch (error) {
+    grid.innerHTML = '<div class="empty">Лента новостей пока не подключена. Сайт готов к подключению автоматического источника.</div>';
+    updated.textContent = "ожидание подключения";
+  }
+}
+
+loadNews();
+setInterval(loadNews, 30 * 60 * 1000);
+</script>
+</body>
+</html>
