@@ -1,5 +1,8 @@
 name: Update CS2 News
-on: [workflow_dispatch, schedule]
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
