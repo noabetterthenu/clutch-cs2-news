@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-11T06:51:41.122Z",
+  "updatedAt": "2026-11-11T08:07:39.918Z",
   "items": [
+    {
+      "title": "flameZ: &quot;We could have been way more rusty coming into this, but we did show up&quot;",
+      "url": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
+      "summary": "Vitality's entry fragger was happy with the opening victory at BLAST Rivals against Falcons in apEX's return.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
       "url": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
@@ -61,13 +68,6 @@
       "title": "Sources: Fluxo to put CS division on hold",
       "url": "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
       "summary": "Members of the current team will be released or moved to the bench.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Economy filters added to stats pages",
-      "url": "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages",
-      "summary": "Advanced 'round' filters are rolling out across HLTV, so you can see rating in anti-eco rounds, round wins or overtime.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
