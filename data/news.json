@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-11T15:37:51.466Z",
+  "updatedAt": "2026-11-11T16:41:53.896Z",
   "items": [
+    {
+      "title": "Short news: Week 44",
+      "url": "https://www.hltv.org/news/45949/short-news-week-44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "torzsi: &quot;We don't need to overanalyze this game; we just need to be more ready for tomorrow&quot;",
       "url": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
@@ -61,13 +68,6 @@
       "title": "FURIA beat Legacy in BLAST Rivals opener",
       "url": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
       "summary": "FalleN's last ride in Hong Kong is off to a strong start.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "m0NESY: &quot;It's hard for now to say that we are title contenders&quot;",
-      "url": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
-      "summary": "Falcons hope to have two strong events in Hong Kong and Singapore to finish off an otherwise lackluster season.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
