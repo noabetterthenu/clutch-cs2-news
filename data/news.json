@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-12T09:25:48.428Z",
+  "updatedAt": "2026-11-12T10:26:56.695Z",
   "items": [
+    {
+      "title": "Short news: Week 44",
+      "url": "https://www.hltv.org/news/45949/short-news-week-44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
       "url": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
@@ -12,13 +19,6 @@
       "title": "Falcons crush Legacy to make Rivals playoffs",
       "url": "https://www.hltv.org/news/45974/falcons-crush-legacy-to-make-rivals-playoffs",
       "summary": "Legacy bow out in last place for the second straight tournament.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 44",
-      "url": "https://www.hltv.org/news/45949/short-news-week-44",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
