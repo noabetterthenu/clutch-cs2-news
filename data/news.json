@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-12T18:39:42.752Z",
+  "updatedAt": "2026-11-12T19:42:38.741Z",
   "items": [
+    {
+      "title": "Who are 2026's rookies?",
+      "url": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
+      "summary": "Rookie criteria have been simplified ahead of the awards in January.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Short news: Week 44",
       "url": "https://www.hltv.org/news/45949/short-news-week-44",
@@ -61,13 +68,6 @@
       "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
       "url": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
       "summary": "BLAST is also planning to host another esports event in the famous Nevada city as part of the deal.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "PGL confirm Singapore Major Stage 1 schedule",
-      "url": "https://www.hltv.org/news/45969/pgl-confirm-singapore-major-stage-1-schedule",
-      "summary": "Matches will start at 05:00 Central European Time.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
