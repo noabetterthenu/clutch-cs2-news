@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-12T17:42:37.976Z",
+  "updatedAt": "2026-11-12T18:39:42.752Z",
   "items": [
+    {
+      "title": "Short news: Week 44",
+      "url": "https://www.hltv.org/news/45949/short-news-week-44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "YEKINDAR: &quot;Today we were better, but also luckier to some degree&quot;",
       "url": "https://www.hltv.org/news/45976/yekindar-today-we-were-better-but-also-luckier-to-some-degree",
@@ -19,13 +26,6 @@
       "title": "MOUZ narrowly escape last-place elimination at BLAST against FUT",
       "url": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
       "summary": "xertioN and company came back from a map down and 6-12 on Mirage to live on in Hong Kong.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 44",
-      "url": "https://www.hltv.org/news/45949/short-news-week-44",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
