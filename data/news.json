@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-13T21:36:46.896Z",
+  "updatedAt": "2026-11-13T22:33:31.871Z",
   "items": [
+    {
+      "title": "Short news: Week 44",
+      "url": "https://www.hltv.org/news/45949/short-news-week-44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "The highs and lows of the Major qualification rollercoaster",
       "url": "https://www.hltv.org/news/45973/the-highs-and-lows-of-the-major-qualification-rollercoaster",
@@ -61,13 +68,6 @@
       "title": "Who are 2026's rookies?",
       "url": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
       "summary": "Rookie criteria have been simplified ahead of the awards in January.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 44",
-      "url": "https://www.hltv.org/news/45949/short-news-week-44",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
