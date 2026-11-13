@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-13T13:38:41.610Z",
+  "updatedAt": "2026-11-13T14:42:15.810Z",
   "items": [
+    {
+      "title": "Falcons qualify for BLAST Rivals semis over G2",
+      "url": "https://www.hltv.org/news/45984/falcons-qualify-for-blast-rivals-semis-over-g2",
+      "summary": "karrigan's men will now face FURIA in the semi-final.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "apEX: &quot;Probably my worst calling in a long time&quot;",
       "url": "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
@@ -61,13 +68,6 @@
       "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
       "url": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
       "summary": "FURIA hit flow state on the Mirage decider to seal the series victory.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Falcons crush Legacy to make Rivals playoffs",
-      "url": "https://www.hltv.org/news/45974/falcons-crush-legacy-to-make-rivals-playoffs",
-      "summary": "Legacy bow out in last place for the second straight tournament.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
