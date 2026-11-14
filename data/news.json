@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-14T21:59:54.816Z",
+  "updatedAt": "2026-11-14T22:32:39.783Z",
   "items": [
+    {
+      "title": "Short news: Week 44",
+      "url": "https://www.hltv.org/news/45949/short-news-week-44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "yuurih: &quot;I really want to thank Falcons for their fair play&quot;",
       "url": "https://www.hltv.org/news/45992/yuurih-i-really-want-to-thank-falcons-for-their-fair-play",
@@ -26,13 +33,6 @@
       "title": "Spirit defeat MOUZ to make BLAST Rivals final",
       "url": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
       "summary": "A team effort by Spirit netted them a shot at the trophy in Hong Kong.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 44",
-      "url": "https://www.hltv.org/news/45949/short-news-week-44",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
