@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-15T15:05:48.467Z",
+  "updatedAt": "2026-11-15T16:04:32.853Z",
   "items": [
+    {
+      "title": "Short news: Week 44",
+      "url": "https://www.hltv.org/news/45949/short-news-week-44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "KSCERATO: &quot;We need to be humble and go to the Major with the mentality that we need to show our best&quot;",
       "url": "https://www.hltv.org/news/45997/kscerato-we-need-to-be-humble-and-go-to-the-major-with-the-mentality-that-we-need-to-show-our-best",
@@ -33,13 +40,6 @@
       "title": "BLAST to return to Hong Kong in 2027",
       "url": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
       "summary": "For the third year in a row, Hong Kong will host a late-season BLAST event.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 44",
-      "url": "https://www.hltv.org/news/45949/short-news-week-44",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
