@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T12:38:46.860Z",
+  "updatedAt": "2026-11-16T15:45:40.354Z",
   "items": [
-    {
-      "title": "Alliance part ways with head coach Hawk",
-      "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
-      "summary": "Alliance have opted to make a change after a poor run of form saw them miss a Major berth.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Alliance part ways with head coach Hawk",
+      "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+      "summary": "Alliance have opted to make a change after a poor run of form saw them miss a Major berth.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
