@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-16T07:00:05.348Z",
+  "updatedAt": "2026-11-16T11:07:04.628Z",
   "items": [
+    {
+      "title": "Short news: Week 45",
+      "url": "https://www.hltv.org/news/45999/short-news-week-45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Short news: Week 44",
       "url": "https://www.hltv.org/news/45949/short-news-week-44",
@@ -61,13 +68,6 @@
       "title": "BLAST Rivals semi-finals as they happened",
       "url": "https://www.hltv.org/news/45988/blast-rivals-semi-finals-as-they-happened",
       "summary": "Catch all the highlights from the top-four stage in Hong Kong.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "FURIA sweep Falcons to reach Hong Kong final",
-      "url": "https://www.hltv.org/news/45990/furia-sweep-falcons-to-reach-hong-kong-final",
-      "summary": "KSCERATO starred as FURIA ended a four-series losing streak against Falcons.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
