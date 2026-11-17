@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-17T18:19:13.557Z",
+  "updatedAt": "2026-11-17T19:29:21.999Z",
   "items": [
+    {
+      "title": "Short news: Week 45",
+      "url": "https://www.hltv.org/news/45999/short-news-week-45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "cmtry out of Astralis after one month",
+      "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
+      "summary": "FUT only had a three-week loan deal with Astralis.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
       "url": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
@@ -37,13 +51,6 @@
       "tag": "CS2 NEWS"
     },
     {
-      "title": "Short news: Week 45",
-      "url": "https://www.hltv.org/news/45999/short-news-week-45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
       "title": "Community Awards: Vox Populi nominations open",
       "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
       "summary": "We are listening to the voice of the people:  nominate your favorites   until November 22nd.",
@@ -61,13 +68,6 @@
       "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
       "url": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
       "summary": "Two Danils headline the penultimate EVP list of the year.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Alliance part ways with head coach Hawk",
-      "url": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
-      "summary": "Alliance have opted to make a change after a poor run of form saw them miss a Major berth.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
