@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-17T09:28:19.451Z",
+  "updatedAt": "2026-11-17T10:30:46.281Z",
   "items": [
+    {
+      "title": "Cast your vote for the Major MVP medal design",
+      "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
+      "summary": "The community has the chance to influence a piece of Counter-Strike history once again, thanks to HLTV and 1xBET.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
@@ -61,13 +68,6 @@
       "title": "The BLAST Rivals grand final as it happened",
       "url": "https://www.hltv.org/news/45993/the-blast-rivals-grand-final-as-it-happened",
       "summary": "Keep up with the storylines and action as FURIA take on Spirit for the penultimate trophy of the season.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
-      "url": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
-      "summary": "KSCERATO went unchallenged from start to finish in Hong Kong to secure his third medal.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
