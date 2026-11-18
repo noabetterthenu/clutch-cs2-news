@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-18T20:43:20.982Z",
+  "updatedAt": "2026-11-18T21:41:33.519Z",
   "items": [
+    {
+      "title": "Short news: Week 45",
+      "url": "https://www.hltv.org/news/45999/short-news-week-45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Media: Inner Circle owner detained in Italy",
       "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
@@ -12,13 +19,6 @@
       "title": "ENCE through the years: Success, setbacks and reinvention",
       "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
       "summary": "As the Finnish organization closes its doors, we look back at the highs and lows of its time in Counter-Strike.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 45",
-      "url": "https://www.hltv.org/news/45999/short-news-week-45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
