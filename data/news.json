@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-18T17:47:01.542Z",
+  "updatedAt": "2026-11-18T18:40:27.620Z",
   "items": [
+    {
+      "title": "Media: Inner Circle owner detained in Italy",
+      "url": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
+      "summary": "Reports from Ukraine say that Oleksandr Slobozhenko has been arrested on charges of tax evasion.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "ENCE through the years: Success, setbacks and reinvention",
       "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
@@ -61,13 +68,6 @@
       "title": "IEM Beijing to return for 2027 and 2028",
       "url": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
       "summary": "The Chinese capital will feature on the calendar for two more years.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Cast your vote for the Major MVP medal design",
-      "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
-      "summary": "The community has the chance to influence a piece of Counter-Strike history once again, thanks to HLTV and 1xBET.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
