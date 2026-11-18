@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-18T14:42:59.237Z",
+  "updatedAt": "2026-11-18T15:46:55.354Z",
   "items": [
+    {
+      "title": "ENCE through the years: Success, setbacks and reinvention",
+      "url": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
+      "summary": "As the Finnish organization closes its doors, we look back at the highs and lows of its time in Counter-Strike.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
@@ -61,13 +68,6 @@
       "title": "Cast your vote for the Major MVP medal design",
       "url": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
       "summary": "The community has the chance to influence a piece of Counter-Strike history once again, thanks to HLTV and 1xBET.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Community Awards: Vox Populi nominations open",
-      "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
-      "summary": "We are listening to the voice of the people:  nominate your favorites   until November 22nd.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
