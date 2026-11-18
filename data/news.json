@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-18T13:42:47.784Z",
+  "updatedAt": "2026-11-18T14:42:59.237Z",
   "items": [
+    {
+      "title": "Short news: Week 45",
+      "url": "https://www.hltv.org/news/45999/short-news-week-45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
       "url": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
@@ -12,13 +19,6 @@
       "title": "Bad News Eagles relaunch with academy project",
       "url": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
       "summary": "The famous Albanian-Kosovar tag is back as a proper esports organization.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 45",
-      "url": "https://www.hltv.org/news/45999/short-news-week-45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
