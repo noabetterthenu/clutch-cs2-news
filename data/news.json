@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-18T00:12:51.345Z",
+  "updatedAt": "2026-11-18T01:47:29.890Z",
   "items": [
+    {
+      "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
+      "url": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
+      "summary": "The sticker system has been changed and Cobblestone completely reworked.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Bad News Eagles relaunch with academy project",
       "url": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
@@ -61,13 +68,6 @@
       "title": "Community Awards: Vox Populi nominations open",
       "url": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
       "summary": "We are listening to the voice of the people:  nominate your favorites   until November 22nd.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Astralis announce jabbi departure",
-      "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-      "summary": "The Dane leaves the organization after three years of service.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
