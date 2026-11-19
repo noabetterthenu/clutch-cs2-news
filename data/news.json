@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T16:28:00.714Z",
+  "updatedAt": "2026-11-19T18:16:15.972Z",
   "items": [
-    {
-      "title": "PGL announce Singapore Major talent lineup",
-      "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
-      "summary": "A team of 16 will bring the season's final tournament to life on the broadcast.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "PGL announce Singapore Major talent lineup",
+      "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
+      "summary": "A team of 16 will bring the season's final tournament to life on the broadcast.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
