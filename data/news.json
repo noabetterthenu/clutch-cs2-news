@@ -1,10 +1,24 @@
 {
-  "updatedAt": "2026-11-19T12:53:32.020Z",
+  "updatedAt": "2026-11-19T15:22:42.599Z",
   "items": [
+    {
+      "title": "PGL announce Singapore Major talent lineup",
+      "url": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
+      "summary": "A team of 16 will bring the season's final tournament to life on the broadcast.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Vitality to shut down academy project",
+      "url": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
+      "summary": "The players are officially on the lookout for new homes.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
@@ -54,20 +68,6 @@
       "title": "Stake announces six Ranked events with open qualifiers and $150,000 prize pool for 2027",
       "url": "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
       "summary": "The tournament will return to Belgrade with a new format and 12 teams fighting over an upgraded prize pool across six days.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "BC.Game, TYLOO headline ZOWIE eXTREMESLAND Asia Open team list",
-      "url": "https://www.hltv.org/news/46005/bcgame-tyloo-headline-zowie-extremesland-asia-open-team-list",
-      "summary": "The $150,000 LAN is set to feature the best regional squads.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "IEM Beijing to return for 2027 and 2028",
-      "url": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
-      "summary": "The Chinese capital will feature on the calendar for two more years.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
