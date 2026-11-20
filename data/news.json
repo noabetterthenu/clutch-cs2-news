@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-20T18:46:28.700Z",
+  "updatedAt": "2026-11-20T19:49:55.509Z",
   "items": [
+    {
+      "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
+      "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+      "summary": "For his immense contributions to Counter-Strike, Jason Lake will be recognized at the HLTV Awards.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
@@ -61,13 +68,6 @@
       "title": "Bad News Eagles relaunch with academy project",
       "url": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
       "summary": "The famous Albanian-Kosovar tag is back as a proper esports organization.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "cmtry out of Astralis after one month",
-      "url": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
-      "summary": "FUT only had a three-week loan deal with Astralis.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
