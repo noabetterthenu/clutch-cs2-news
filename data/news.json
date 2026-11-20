@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T12:20:08.529Z",
+  "updatedAt": "2026-11-20T13:42:33.299Z",
   "items": [
-    {
-      "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
-      "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
-      "summary": "We're moving to a more future-proof role label, and incorporating resources into our definition.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
+      "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
+      "summary": "We're moving to a more future-proof role label, and incorporating resources into our definition.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
