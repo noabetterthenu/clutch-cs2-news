@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T14:44:44.758Z",
+  "updatedAt": "2026-11-20T15:45:24.000Z",
   "items": [
-    {
-      "title": "Infographic: PGL Major Singapore",
-      "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
-      "summary": "Our countdown to the start of the second Major of 2026 begins with some stats and fact about the season-ending pinnacle event.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Infographic: PGL Major Singapore",
+      "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
+      "summary": "Our countdown to the start of the second Major of 2026 begins with some stats and facts about the season-ending pinnacle event.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
