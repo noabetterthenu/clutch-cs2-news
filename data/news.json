@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-21T12:08:05.496Z",
+  "updatedAt": "2026-11-21T13:27:45.116Z",
   "items": [
+    {
+      "title": "Short news: Week 45",
+      "url": "https://www.hltv.org/news/45999/short-news-week-45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Visualized: Every team at PGL Major Singapore Stage 1",
       "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
@@ -19,13 +26,6 @@
       "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
       "url": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
       "summary": "For his immense contributions to Counter-Strike, Jason Lake will be recognized at the HLTV Awards.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 45",
-      "url": "https://www.hltv.org/news/45999/short-news-week-45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
