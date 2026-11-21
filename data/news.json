@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T15:12:54.262Z",
+  "updatedAt": "2026-11-21T16:10:34.310Z",
   "items": [
-    {
-      "title": "Betclic part ways with ultimate",
-      "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
-      "summary": "The Polish AWPer will be replaced by Brain47.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
     {
       "title": "Short news: Week 45",
       "url": "https://www.hltv.org/news/45999/short-news-week-45",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Betclic part ways with ultimate",
+      "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
+      "summary": "The Polish AWPer will be replaced by Brain47.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
