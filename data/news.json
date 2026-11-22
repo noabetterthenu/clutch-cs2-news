@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-22T18:03:18.443Z",
+  "updatedAt": "2026-11-22T19:19:08.695Z",
   "items": [
+    {
+      "title": "Short news: Week 45",
+      "url": "https://www.hltv.org/news/45999/short-news-week-45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "s1mple tops picks for Singapore Stage 1 Fantasy",
+      "url": "https://www.hltv.org/news/46026/s1mple-tops-picks-for-singapore-stage-1-fantasy",
+      "summary": "s1mple is on roughly every other Fantasy lineup for the Major Stage 1 game.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "s1mple and device give Stage 1 some much needed stardust",
       "url": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
@@ -19,13 +33,6 @@
       "title": "Meet the PGL Major Singapore 2026 rookies",
       "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
       "summary": "Only one team going to Singapore has a rookie core in a class of 18 new Major neophytes.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 45",
-      "url": "https://www.hltv.org/news/45999/short-news-week-45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
@@ -61,13 +68,6 @@
       "title": "Infographic: PGL Major Singapore",
       "url": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
       "summary": "Our countdown to the start of the second Major of 2026 begins with some stats and facts about the season-ending pinnacle event.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
-      "url": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
-      "summary": "We're moving to a more future-proof role label, and incorporating resources into our definition.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
