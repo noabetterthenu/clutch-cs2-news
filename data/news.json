@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-23T10:53:24.182Z",
+  "updatedAt": "2026-11-23T11:43:33.734Z",
   "items": [
+    {
+      "title": "Short news: Week 46",
+      "url": "https://www.hltv.org/news/46029/short-news-week-46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "PGL Major Singapore teams, format, schedule, talent, fantasy",
       "url": "https://www.hltv.org/news/46028/pgl-major-singapore-teams-format-schedule-talent-fantasy",
@@ -61,13 +68,6 @@
       "title": "Betclic part ways with ultimate",
       "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
       "summary": "The Polish AWPer will be replaced by Brain47.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Visualized: Every team at PGL Major Singapore Stage 1",
-      "url": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
-      "summary": "From PARIVISION to 100 Thieves and BCG, every team goes under the microscope ahead of their flights to Southeast Asia.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
