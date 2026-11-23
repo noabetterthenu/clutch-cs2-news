@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-23T14:16:34.609Z",
+  "updatedAt": "2026-11-23T15:31:56.282Z",
   "items": [
+    {
+      "title": "ztr's FOKUS loan ends",
+      "url": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
+      "summary": "FOKUS' season draws to a close after an inconsistent first year in Counter-Strike.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
       "url": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
@@ -61,13 +68,6 @@
       "title": "Attributes Fans Come Here ft. LuzRaposa",
       "url": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
       "summary": "The Come Here podcast discussed some of the new stylistic metrics rolling out for players.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Meet the PGL Major Singapore 2026 rookies",
-      "url": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
-      "summary": "Only one team going to Singapore has a rookie core in a class of 18 new Major neophytes.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
