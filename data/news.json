@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-24T14:11:32.763Z",
+  "updatedAt": "2026-11-24T15:28:50.159Z",
   "items": [
+    {
+      "title": "Short news: Week 46",
+      "url": "https://www.hltv.org/news/46029/short-news-week-46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Singapore Major Stage 1 day 2 matchups set",
       "url": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
@@ -33,13 +40,6 @@
       "title": "Chr1zN: &quot;It's the first time we have the pieces to push for a little more than just being at events&quot;",
       "url": "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
       "summary": "HEROIC bounced back from a loss to Imperial by getting back on track against Chinggis Warriors.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 46",
-      "url": "https://www.hltv.org/news/46029/short-news-week-46",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
