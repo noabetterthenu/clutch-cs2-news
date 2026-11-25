@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T18:38:51.158Z",
+  "updatedAt": "2026-11-25T19:45:06.284Z",
   "items": [
-    {
-      "title": "Media: oSee joins Without a Roof",
-      "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
-      "summary": "The orgless squad has found their CeRq replacement.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
     {
       "title": "On the ground at PGL Major Singapore Stage 1",
       "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
       "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Media: oSee joins Without a Roof",
+      "url": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
+      "summary": "The orgless squad has found their CeRq replacement.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
