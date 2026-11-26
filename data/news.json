@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-26T08:22:51.708Z",
+  "updatedAt": "2026-11-26T10:48:58.082Z",
   "items": [
+    {
+      "title": "Short news: Week 46",
+      "url": "https://www.hltv.org/news/46029/short-news-week-46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "HEROIC dump FaZe out of Singapore",
+      "url": "https://www.hltv.org/news/46058/heroic-dump-faze-out-of-singapore",
+      "summary": "FaZe's disappointing season ends on a whimper as they exit the Major in 28th-30th place.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "Eternal Fire beat M80 to qualify for Stage 2",
+      "url": "https://www.hltv.org/news/46057/eternal-fire-beat-m80-to-qualify-for-stage-2",
+      "summary": "The international squad's fairytale Major run is set to continue.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
       "url": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
@@ -47,27 +68,6 @@
       "title": "NIP beat Liquid to reach Stage 2 in Singapore",
       "url": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
       "summary": "NIP went 3-0 on their return to the Major after missing Cologne.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "HUASOPEEK: &quot;history is another voice with max, he helps a lot inside and outside the game&quot;",
-      "url": "https://www.hltv.org/news/46049/huasopeek-history-is-another-voice-with-max-he-helps-a-lot-inside-and-outside-the-game",
-      "summary": "9z ended their loss streak, and HUASOPEEK is confident they can now go 3-2 in Singapore.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "FlyQuest beat Imperial to secure Stage 2 spot",
-      "url": "https://www.hltv.org/news/46050/flyquest-beat-imperial-to-secure-stage-2-spot",
-      "summary": "The Aussies complete a surprise run to a 3-0 finish in Stage 1.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "9z snap losing streak to send DENDELE packing in Singapore",
-      "url": "https://www.hltv.org/news/46048/9z-snap-losing-streak-to-send-dendele-packing-in-singapore",
-      "summary": "The former Sharks roster is the first team to be sent home at the Major.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
