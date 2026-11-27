@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-27T15:24:16.441Z",
+  "updatedAt": "2026-11-27T16:29:50.821Z",
   "items": [
+    {
+      "title": "Short news: Week 46",
+      "url": "https://www.hltv.org/news/46029/short-news-week-46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "aliStair: &quot;It's really about trying to be the glue because they have so much fucking talent&quot;",
+      "url": "https://www.hltv.org/news/46051/alistair-its-really-about-trying-to-be-the-glue-because-they-have-so-much-fucking-talent",
+      "summary": "FlyQuest's AWPer-IGL is enjoying working in the best Aussie team.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
+    {
+      "title": "PGL Major Singapore Stage 2 opening matches set",
+      "url": "https://www.hltv.org/news/46076/pgl-major-singapore-stage-2-opening-matches-set",
+      "summary": "The teams coming from Stage 1 now know their next opponents in the first round of the next Swiss group stage.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "100 Thieves eliminate M80 to make it to Stage 2",
       "url": "https://www.hltv.org/news/46074/100-thieves-eliminate-m80-to-make-it-to-stage-2",
@@ -47,27 +68,6 @@
       "title": "Gizmy on leading veterans: &quot;You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game&quot;",
       "url": "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
       "summary": "100 Thieves are into round five in Singapore after eliminating 9z.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "NAF: &quot;People need to realize that [pressure] is where the fun is&quot;",
-      "url": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
-      "summary": "Liquid's veteran lurker thinks his teammates learning to enjoy close and important games will help his team get to the next level.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "On the ground at PGL Major Singapore Stage 1",
-      "url": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Matchups set for final day of Stage 1",
-      "url": "https://www.hltv.org/news/46068/matchups-set-for-final-day-of-stage-1",
-      "summary": "Six teams are left to fight for the final three Stage 2 berths.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     }
