@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-28T06:52:27.656Z",
+  "updatedAt": "2026-11-28T08:06:08.906Z",
   "items": [
+    {
+      "title": "Short news: Week 46",
+      "url": "https://www.hltv.org/news/46029/short-news-week-46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "tag": "CS2 NEWS"
+    },
     {
       "title": "Best highlights from PGL Major Singapore Stage 2",
       "url": "https://www.hltv.org/news/46079/best-highlights-from-pgl-major-singapore-stage-2",
@@ -40,13 +47,6 @@
       "title": "All 16 teams set for Singapore Stage 2 Fantasy",
       "url": "https://www.hltv.org/news/46077/all-16-teams-set-for-singapore-stage-2-fantasy",
       "summary": "jks is the fifth most-picked player in the game.",
-      "source": "HLTV",
-      "tag": "CS2 NEWS"
-    },
-    {
-      "title": "Short news: Week 46",
-      "url": "https://www.hltv.org/news/46029/short-news-week-46",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
       "source": "HLTV",
       "tag": "CS2 NEWS"
     },
